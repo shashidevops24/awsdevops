@@ -1,4 +1,0 @@
-Welcome to NareshLabs
-Here we are learning AWS and Devops
-
-Here we can learn real time senarios
