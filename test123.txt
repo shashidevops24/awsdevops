@@ -1,5 +1,5 @@
 Welcome to Devops Course
 
 Line1
-Line2
-Line3
+
+Welcome to NareshLabs to learn about AWS and Devops with realtime senarios
